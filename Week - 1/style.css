@@ -1,0 +1,19 @@
+
+
+/*tipo de seletor {
+    proprieddade: valor;
+}*/
+
+
+/* seleciona todos os h1
+h1 {
+    color:firebrick
+}*/
+/*seleciona tudo
+*{
+    color: darkgoldenrod;
+} */
+
+.redbox > p{
+
+}
